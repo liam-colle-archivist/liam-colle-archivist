@@ -6,6 +6,9 @@ I'm a student at **{ [EPITECH](https://github.com/Epitech) } Marseille** *(Promo
 * **Web Development**
   * **Frontend**: React *(JS / TS)* ⚛️ | HTML 🟧 | CSS 🟦 | JS *(No Framework)* 🟨
   * **Backend**: NestJS *(JS / TS)* 😺🟥 | Flask *(Python)* 🧪
+* **Deployment**
+  * **Docker** 🐋
+  * **Docker Compose** 🐋
 * **Languages**
   * **C** 🟦
   * **C++** 🟦
