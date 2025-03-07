@@ -20,4 +20,3 @@ I'm a student at **{ [EPITECH](https://github.com/Epitech) } Marseille** *(Promo
 * By **Email** 📧: [liam.colle@epitech.eu](mailto:liam.colle@epitech.eu)
 * By **LinkedIn** 🟦: [Liam Colle (liam-colle-uni13)](https://www.linkedin.com/in/liam-colle-uni13/)
 * By **Discord** 🔵: [codearchivist](https://discord.com/users/1312038809344675881/)
-> ⚠️ **Note:** In accordance with academic rules at Epitech, I am not allowed to share any code regarding my Epitech projects *(Only screenshots of my graphical works)* on my github page. However, I'd be more than glad to discuss about them in further detail if you are interested in my works.
